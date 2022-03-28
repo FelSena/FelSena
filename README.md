@@ -1,4 +1,4 @@
-<h1> Olá, eu sou o Felipe Sena!! </h1> 
+<h1> 👋 Olá, eu sou o Felipe Sena!! </h1> 
 
 - 🔨 Sou Dev front-end
 - 🌱 Estou estudando mais sobre JavaScrip na Kenzie Academy Brasil!
