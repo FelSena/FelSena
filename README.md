@@ -1,8 +1,7 @@
 <h1> 👋 Olá, eu sou o Felipe Sena!! </h1> 
 
 - 🔨 Sou Dev front-end
-- 🌱 Estou estudando mais sobre JavaScrip na Kenzie Academy Brasil!
-##
+- 🌱 Estou estudando mais sobre VueJs
 <div align="center">
   <a href="https://github.com/FelSena">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=FelSena&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
